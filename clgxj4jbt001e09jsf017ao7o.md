@@ -4,6 +4,7 @@ seoTitle: "VSapps AI technology generates unique art from your sentences."
 datePublished: Wed Apr 26 2023 10:04:31 GMT+0000 (Coordinated Universal Time)
 cuid: clgxj4jbt001e09jsf017ao7o
 slug: transform-your-words-into-art-with-vsappsnls-ai-technology
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682508923453/4734646d-6059-4072-995f-04549050f2be.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682503252358/0b4532a9-1d78-4d70-8fc0-1f22419541fd.jpeg
 tags: canvas, digital-product, ai-generated-art, personized-art, unique-art
 
